@@ -10,7 +10,7 @@ Obviously, the virtual machine should allow for numerous simultaneous processes.
 * **The champion**: It's necessary to create a simple champion just to prove the program functionality.
 
 ### How to run:
-* git clone https://github.com/Red-ORG/corewar.git ~/corewar/
+* git clone https://github.com/rmahjoubi/corewar.git ~/corewar
 * cd ~/corewar/
 * make
 * ./asm [file1.s] [....] (use *zork.s*)
